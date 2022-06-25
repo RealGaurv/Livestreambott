@@ -1,7 +1,7 @@
 {
   "name": "TRTMP",
   "description": "Go live easily and stream videos in Telegram channels.",
-  "repository": "https://github.com/callsmusic/trtmp",
+  "repository": "https://github.com/realgaurv/livestreambot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot’s token obtained from @BotFather.",
